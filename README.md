@@ -1,5 +1,5 @@
 # MDGOP
-A new global optimization solver
+A new global optimization solver.
 The upload loaded codes are an example code of "martingale-driven global optimization method" (MDGOP), which has been submitted to the journal of engineering optimization for peer review. If you are interested in the code, you can use it as you wish. However, any publication regarding this method should be avoided without contacting the first author through email pdl@sjtu.edu.cn.
 
 Besides, if you want to use this method as your solver and publish another irrelevant paper, at this stage you can cite the following paper:
